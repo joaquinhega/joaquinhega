@@ -41,15 +41,17 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/355081/js.svg" height="40" alt="js"  />
   <img width="12" />
-  <img src="" height="40" alt="react"  />
+  <img src="https://www.svgrepo.com/show/452092/react.svg" height="40" alt="react"  />
   <img width="12" />
-  <img src="" height="40" alt="java"  />
+  <img src="https://www.svgrepo.com/show/452234/java.svg" height="40" alt="java"  />
   <img width="12" />
-  <img src="" height="40" alt="python"  />
+  <img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="python"  />
   <img width="12" />
-  <img src="" height="40" alt="flutter"  />
+  <img src="https://www.svgrepo.com/show/353751/flutter.svg" height="40" alt="flutter"  />
   <img width="12" />
-  <img src="" height="40" alt="mysql"  />
+  <img src="https://www.svgrepo.com/show/353631/dart.svg" height="40" alt="dart"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="40" alt="mysql"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -57,7 +59,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 Mis Stats :</h3>
 
 ###
 
