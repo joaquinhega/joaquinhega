@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mi...</h3>
+<h3 align="left">👩‍💻  Sobre mi</h3>
 
 ###
 
@@ -31,19 +31,25 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452088/php.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="" height="40" alt=""  />
+  <img src="https://www.svgrepo.com/show/376332/laravel.svg" height="40" alt="laravel"  />
   <img width="12" />
-  <img src="" height="40" alt=""  />
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="40" alt="html"  />
   <img width="12" />
-  <img src="" height="40" alt=""  />
+  <img src="https://www.svgrepo.com/show/373535/css.svg" height="40" alt="css"  />
   <img width="12" />
-  <img src="" height="40" alt=""  />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="40" alt=" tailwind css"  />
   <img width="12" />
-  <img src="" height="40" alt=""  />
+  <img src="https://www.svgrepo.com/show/355081/js.svg" height="40" alt="js"  />
   <img width="12" />
-  <img src="" height="40" alt=""  />
+  <img src="" height="40" alt="react"  />
   <img width="12" />
-  <img src="" height="40" alt=""  />
+  <img src="" height="40" alt="java"  />
+  <img width="12" />
+  <img src="" height="40" alt="python"  />
+  <img width="12" />
+  <img src="" height="40" alt="flutter"  />
+  <img width="12" />
+  <img src="" height="40" alt="mysql"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
